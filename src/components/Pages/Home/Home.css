@@ -1,0 +1,122 @@
+/* img {
+        height: 80vh;
+        object-fit: fill;
+} */
+
+.slide__desc {
+        text-align: center;
+        width: 100%;
+}
+
+.slide__desc img {
+        width: 100%;
+        display: block;
+        margin: auto;
+}
+
+.slide__desc h2 {
+        font-size: 25px;
+        color: rgb(245, 245, 245);
+        text-align: center;
+}
+
+.product {
+        width: 350px;
+        margin: auto;
+        text-align: justify;
+        padding: 30px 0;
+}
+
+.product .prod__name {
+        text-align: center;
+        color: rgb(254, 255, 251);
+        font-size: 23px;
+        font-family: 'poppins';
+}
+
+.summary {
+        margin-top: 20px;
+        padding: 30px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        font-size: 30px;
+}
+
+.country {
+        width: 200px;
+}
+
+.image {
+        width: 100%;
+        height: 250px;
+        object-fit: cover;
+}
+
+h2 {
+        font-size: 50px;
+        color: rgb(1, 1, 48);
+}
+
+h5 {
+        font-size: 20px;
+        color: rgb(39, 39, 39);
+}
+
+.summary svg {
+        display: block;
+        margin: auto;
+        color: rgb(3, 229, 236);
+}
+
+.singleitem {
+        padding: 20px;
+        border: 1px solid white;
+        border-radius: 14px;
+        color: aliceblue;
+        width: 350px;
+}
+
+.singleitem img {
+        border-radius: 50%;
+}
+
+.singleitem .rateing {
+        display: flex;
+        justify-content: center;
+        color: yellow;
+}
+
+.revcon {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+}
+
+.square-holder {
+        width: 160px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        padding: 27px;
+}
+
+.square-holder img {
+        filter: grayscale(100%);
+        transition: all 0.3s;
+        width: 100%;
+        margin: auto;
+        display: flex;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        background: wheat;
+        padding: 20px;
+        border-radius: 13px;
+}
+
+.square-holder:hover img {
+        filter: none;
+}
