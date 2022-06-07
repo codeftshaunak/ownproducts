@@ -3,11 +3,11 @@
 This project was bootstrapped with [Car_Builder](https://ownproduct-a0bad.web.app/).
 
 ## Description
--This is a store website. People can buy different parts of cars.
--Customers can easily order products and manage their orders.
--Only admin can make orders and shipping admin can add new products.
--Admin can make any normal user to admin.
--Admin can also remove anyone from admin panel.
+- This is a store website. People can buy different parts of cars.
+- Customers can easily order products and manage their orders.
+- Only admin can make orders and shipping admin can add new products.
+- Admin can make any normal user to admin.
+- Admin can also remove anyone from admin panel.
 
 In the project directory, you can run:
 
